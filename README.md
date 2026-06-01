@@ -44,5 +44,8 @@ All wordlists have lines that don't start with /, **so when brute-forcing, speci
 # Author
 By ArroizX (Evgeny Kopytin)
 
+# Links
+https://t.me/ArroizX_Notes/96
+
 # Contacts 
 Telegram - @ArroizX
